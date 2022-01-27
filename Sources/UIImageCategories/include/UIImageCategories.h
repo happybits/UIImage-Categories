@@ -9,3 +9,4 @@
 #import "UIImage+Alpha.h"
 #import "UIImage+Resize.h"
 #import "UIImage+RoundedCorner.h"
+#import "UIImage+FixOrientation.h"
